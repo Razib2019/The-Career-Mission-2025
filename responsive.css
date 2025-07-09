@@ -1,0 +1,19 @@
+/* For Laptop Device */
+@media screen and (max-width:1024px) and (min-width:769px) {
+/* Banner Section Style Start */
+.banner{
+    padding: 40px 10px;
+}
+
+.banner h1{
+    margin-top: 28px;
+    margin-bottom: 20px;
+    font-size: 34px;
+}
+
+.banner p{
+    font-size: 16px;
+    max-width: 852px;
+}
+/* Banner Section Style End */
+}

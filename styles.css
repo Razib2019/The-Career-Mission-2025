@@ -1,0 +1,94 @@
+/* Universal Style Start */
+*{
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding:0
+}
+
+body{
+    background: linear-gradient(339deg, #B8E7FA 35.75%, #E6E6FA 90.79%);
+}
+
+.contents{
+    max-width: 1260px;
+    margin: 0 auto;
+}
+/* Universal Style End */
+
+/* Shared Style Start */
+.btn-button{
+    padding: 17px 24px;
+    color: #0D1321;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 10px;
+    opacity: 0.8;
+    background: linear-gradient(90deg, #FFA500 0%, #FFD447 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: none;
+    cursor: pointer;
+}
+
+.btn-button:hover{
+     color: #ffffff;
+     background: linear-gradient(90deg, #ff6600 0%, #ff9a57 100%);
+}
+/* Shared Style End */
+
+/* Header Style Start */
+.header-container{
+    background-color: #FFFFFF99;
+    border-bottom: 1px solid #C6DBFF;
+}
+
+.header{
+    padding: 24px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h2{
+    color: #0D1321;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.header-font-color{
+    color: #FFA500;
+}
+/* Header Style End */
+
+/* Banner Section Style Start */
+.banner-container{
+    margin: 100px auto;
+    padding: 0px 10px;
+}
+
+.banner{
+    background-color: #E6EDF9;
+    border-radius: 16px;
+    padding: 40px 60px;
+    text-align: center;
+}
+
+.banner h1{
+    margin-top: 32px;
+    margin-bottom: 24px;
+    color: #0D1321;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+}
+
+.banner p{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    max-width: 852px;
+    margin: 0px auto 32px;
+}
+/* Banner Section Style Start */
