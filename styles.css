@@ -35,6 +35,28 @@ body{
      color: #ffffff;
      background: linear-gradient(90deg, #ff6600 0%, #ff9a57 100%);
 }
+
+.text-container{
+    margin-bottom: 48px;
+    text-align: center;
+    padding: 0px 10px;
+}
+
+.text-title{
+    color: #0D1321;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.title-description{
+    max-width: 852px;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 0px auto;
+}
 /* Shared Style End */
 
 /* Header Style Start */
@@ -92,3 +114,45 @@ body{
     margin: 0px auto 32px;
 }
 /* Banner Section Style Start */
+
+/* Why Web Development Section Style Start */
+.development-container{
+    margin:0 10px 100px;
+}
+
+.development-card{
+    background: #E6EDF9;
+    border-radius: 16px;
+    padding: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.development-text-content{
+    width: 50%;
+}
+
+.development-text-content h3{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.development-text-content p{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 16px 0px 32px;
+}
+
+.development-img{
+    width: 50%;
+}
+
+.development-img img{
+    width: 100%;
+}
+/* Why Web Development Section Style Start */
