@@ -32,6 +32,16 @@
 }
 
 /* Why Web Development Section Style End */
+
+/* My Inspiration Section Style Start */
+.youtube-embeded-video-container{
+    padding: 20px;
+}
+
+.youtube-embeded-video iframe{
+    height: 450px;
+}
+/* My Inspiration Section Style End */
 }
 
 /* For Tablet Device */
@@ -102,6 +112,16 @@
     width: 100%;
 }
  /* Why Web Development Section Style Start */
+
+ /* My Inspiration Section Style Start */
+.youtube-embeded-video-container{
+    padding: 10px;
+}
+
+.youtube-embeded-video iframe{
+    height: 350px;
+}
+/* My Inspiration Section Style End */
 
 }
 
@@ -189,4 +209,15 @@ line-height: 32px;
     width: 100%;
 }
 /* Why Web Development Section Style End */
+
+ /* My Inspiration Section Style Start */
+.youtube-embeded-video-container{
+    padding: 7px;
+}
+
+.youtube-embeded-video iframe{
+    height: 250px;
+}
+/* My Inspiration Section Style End */
+
 }
